@@ -14,8 +14,8 @@ A Python-based Flask server that maps column headers from user-uploaded CSV file
 ### 1. Clone the Repository
 
 ```bash
-git clone <REPO_URL>
-cd <project-directory>
+git clone https://github.com/Deepika2430/csv-header-mapper
+cd csv-header-mapper
 ```
 
 ### 2. Create a Virtual Environment
