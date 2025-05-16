@@ -1,0 +1,5 @@
+Flask
+pandas
+dotenv
+langchain
+langchain-google-genai
